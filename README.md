@@ -40,7 +40,8 @@ Created with the help of Windsurf.
 
 ## Setup
 
-1. Install Node.js v18:
+1. Clone the repository 
+2. Install Node.js v18:
    ```bash
    brew install node@18
    # Add Node.js v18 to your PATH
@@ -48,14 +49,16 @@ Created with the help of Windsurf.
    source ~/.zshrc
    ```
 
-2. Install Python and dependencies:
+3. Install Python and dependencies:
    ```bash
    brew install python@3.11
+   # Install Anthropic package first
+   pip install anthropic
+   # Then install other dependencies
    python3.11 -m pip install -r requirements.txt
    ```
 
-3. Set up environment:
-   - Clone the repository
+4. Set up environment:
    - Create a `.env` file with your API keys:
    ```
    ANTHROPIC_API_KEY=your_anthropic_key
