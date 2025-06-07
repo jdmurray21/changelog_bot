@@ -87,6 +87,8 @@ Created with the help of Windsurf.
    npm start
    ```
 
+the app will be available at http://localhost:3000
+
 ## API Documentation
 
 Access the API documentation at: http://localhost:8000/docs
