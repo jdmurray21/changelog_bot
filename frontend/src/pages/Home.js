@@ -26,7 +26,7 @@ const Home = () => {
           </Typography>
           
           <Typography variant="h5" color="#666666" sx={{ mb: 4 }}>
-            An AI tool for generating changelogs from your GitHub commits
+            an ai tool for generating changelogs from your GitHub commits
           </Typography>
 
           <Button

@@ -64,6 +64,8 @@ Created with the help of Windsurf.
    ANTHROPIC_API_KEY=your_anthropic_key
    GITHUB_CLIENT_ID=your_github_client_id
    GITHUB_CLIENT_SECRET=your_github_client_secret
+   GITHUB_TOKEN=your_github_token
+   SQLALCHEMY_DATABASE_URI=sqlite:///./changelog.db
    ```
    - Install frontend dependencies:
    ```bash
