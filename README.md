@@ -3,6 +3,8 @@
 An AI-powered tool to help developers quickly generate changelogs from git commits.
 Created with the help of Windsurf.
 
+Demo: https://www.youtube.com/watch?v=jI8pkmkIIgw&t=20s
+
 ## Features
 
 - AI-powered changelog generation using Anthropic's Claude Sonnet 4
